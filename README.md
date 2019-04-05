@@ -40,7 +40,7 @@ Native messaging enables an extension to exchange messages with a native applica
 
 My solution is a product implemented as a google chrome extension, as well as it can be used at chromium browser.
 
-<a href="https://youtu.be/pmoMzzIR458">Video-presentation</a>
+<a href="https://youtu.be/pmoMzzIR458" target="_blank">Video-presentation</a>
 
 
 The extension is fully functional and you can try it in action after installation.
