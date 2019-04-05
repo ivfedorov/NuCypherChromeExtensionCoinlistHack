@@ -21,7 +21,7 @@
 # About
 My name is **Ivan Fedorov** and I introduce the **NuCypher google chrome extension** - which helps sharing your datafiles in a safe way using NuCypher technology.
 
-<a href="">Video-presentation of the ChromeExtension</a>
+<a href="https://youtu.be/pmoMzzIR458" target="_blank">Video-presentation</a>
 
 Opportunities of my project:
 - start NuCypher network connection with chrome extension
