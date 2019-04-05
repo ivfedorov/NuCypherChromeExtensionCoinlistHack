@@ -76,7 +76,7 @@ https://youtu.be/pmoMzzIR458
 NuCypher leverages the power of proxy re-encryption to bring private data to public blockchains. How does it work? We can easy watch log information in our chrome extension!
 
 <p align="center">
-<img src="Extesion/log.png" width="500px">
+<img src="Extesion/log.png">
 </p>
 
 # Dashboard
@@ -84,7 +84,7 @@ NuCypher leverages the power of proxy re-encryption to bring private data to pub
 A simply dashboard was implemented to watch states of nodes and number of warnings and errors. It is very convenient method for tracking NuCypher network. 
 
 <p align="center">
-<img src="Extesion/dashboard.png" width="500px">
+<img src="Extesion/dashboard.png">
 </p>
 
 # Installation
